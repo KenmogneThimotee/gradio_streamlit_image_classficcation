@@ -1,0 +1,6 @@
+archive/test
+archive/train
+archive/valid
+__pycache__
+archive.zip
+model.h5
